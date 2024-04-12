@@ -22,3 +22,6 @@ rescue NoMethodError
 end
 
 print "#{$cryptos_array}\n"
+
+
+testttt
